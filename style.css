@@ -1,0 +1,89 @@
+.gift-order{
+    background-color:#83b735;
+}
+.icon{
+    font-size: 30px;
+}
+.summery:hover{
+    color: green;
+}
+.dropbtn {
+    background-color: #83b735;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    width: 225px;
+    margin: 0;
+    padding: 0;
+    /* display: inline-block; */
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1; */
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+   .dropdown-content a:hover {background-color:white;}
+  
+  .dropdown:hover .dropdown-content {display:block;}
+  .form-search{
+      border:3px solid #83b735;
+      border-radius:20px;
+      width: 700px;
+
+  }
+  .form-controls{
+      color:#83b735 ;
+  }
+  .form-search a{
+      margin-left: 430px;
+  }
+  .login{
+      text-decoration: none;
+      color:black;
+      margin-right: 5px;
+  }
+/* header-end */
+/* section item  */
+.item div img{
+    padding: 5px;
+}
+.item div img:hover{
+    transform:scale(1.2);
+    transition: transform 0.5s ease-in-out;
+}
+.product-price{
+    background-color:skyblue;
+    padding:  5px;
+    width:50px;
+    margin: 5px;
+}
+.product{
+    background-color:#83b735;
+    color: white;
+    padding: 8px 20px;
+    margin: 0;
+}
+.badge{
+    background-color:green;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 15px;
+    margin-right: 10px;
+}
