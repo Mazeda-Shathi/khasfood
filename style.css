@@ -129,3 +129,40 @@
     transform:scale(1.1);
     transition: transform 0.5s ease-out; 
 }
+.facilities{
+    background-color: rgb(83, 104, 48);
+}
+footer{
+    background-color: rgb(5, 61, 30);
+    padding-bottom: 20px;
+}
+.footer-icon a{
+    color:white;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.foot-icon a{
+    color:rgb(90, 117, 42);
+}
+.email{
+    background-color:rgb(5, 61, 30);
+    border:1px solid white;
+    color:white;
+    width:250px;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.button{
+    width: 100px;
+    padding: 5px;
+}
+body{
+    margin:0;
+}
+.instragram{
+    color:rgb(104, 50, 25);
+}
+.utube{
+    color:red;
+}
